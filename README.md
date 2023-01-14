@@ -1,0 +1,1 @@
+# bq2530_charger_circuit
