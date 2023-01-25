@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL03A225KP3CRNC
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT X5R, 2.2uF, +/-10%, 10v, 0201
+K
+F https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf
+$ENDCMP
+#
+#End Doc Library
