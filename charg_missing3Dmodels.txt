@@ -1,0 +1,26 @@
+### Missing 3D models - created on 2023-01-25 21:02
+### Printed by checking_3D_models plugin
+Board file: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/charg.kicad_pcb
+3D missing models written to:
+/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/charg_missing3Dmodels.txt
+-------
+('R2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/ERJ-PB6B3002V.stp')
+('J9', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('J8', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('J7', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('J6', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('J5', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('J3', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('J2', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('J1', '/usr/share/kicad/3dmodels/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl')
+('IC2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/BQ25302RTER.stp')
+('IC1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/SI3483DDV-T1-BE3.stp')
+('D2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/RBR3L40ADDTE25.stp')
+('C5', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/0805YC106KAT2A.stp')
+('C4', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/C1005X8R1C473M050BB.stp')
+('C3', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/0805YC106KAT2A.stp')
+('C2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/CL03A225KP3CRNC.stp')
+('C1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/bq2530_charger_circuit/CL03A225KP3CRNC.stp')
+-------
+NUM of 3D missing models:17
+checked extensions ['.stp', '.step', '.stpZ']
