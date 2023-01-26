@@ -378,7 +378,7 @@
 
   (footprint "Library:SOT95P284X110-6N" (layer "F.Cu")
     (tedit 0) (tstamp 8102b48a-5577-4868-a3f9-467724c9fdfa)
-    (at 152.4 52.07 180)
+    (at 152.4 53.34 180)
     (descr "SI3460DDV-T1-BE3")
     (tags "Integrated Circuit")
     (property "Description" "MOSFET P-CHANNEL 30-V (D-S)")
@@ -443,7 +443,7 @@
 
   (footprint "Library:TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal" (layer "F.Cu")
     (tedit 5B294EA1) (tstamp 86987725-7c33-4f3d-8ff9-b691ac0b0050)
-    (at 124.91 56.98 -90)
+    (at 138.43 54.61 -90)
     (descr "terminal block Metz Connect Type059_RT06304HBWC, 4 pins, pitch 3.5mm, size 14x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT terminal block Metz Connect Type059_RT06304HBWC pitch 3.5mm size 14x6.5mm^2 drill 1.2mm pad 2.3mm")
     (property "Field6" "REGN")
@@ -755,7 +755,7 @@
 
   (footprint "Library:TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal" (layer "F.Cu")
     (tedit 5B294EA1) (tstamp c0769214-d25b-45d0-ae9d-02047cdaf8de)
-    (at 178.42 54.61 -90)
+    (at 158.75 54.61 -90)
     (descr "terminal block Metz Connect Type059_RT06304HBWC, 4 pins, pitch 3.5mm, size 14x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
     (tags "THT terminal block Metz Connect Type059_RT06304HBWC pitch 3.5mm size 14x6.5mm^2 drill 1.2mm pad 2.3mm")
     (property "Field6" "Thermy")
@@ -849,7 +849,7 @@
 
   (footprint "Library:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 59FED738) (tstamp cf60ceaa-dad5-405e-8079-1e6bd9ef56c7)
-    (at 148.59 67.31)
+    (at 148.59 66.04)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "charg.kicad_sch")
