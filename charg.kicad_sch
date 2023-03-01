@@ -1241,7 +1241,7 @@
     (in_bom yes) (on_board yes)
     (uuid 64e04f30-b75a-485a-9e25-e618219d18d5)
     (property "Reference" "D2" (id 0) (at 156.21 68.58 0))
-    (property "Value" "RBR3L40ADD" (id 1) (at 157.48 73.66 0))
+    (property "Value" "STPS2150A" (id 1) (at 157.48 73.66 0))
     (property "Footprint" "Schottky DD with stock:DIOM5126X265N" (id 2) (at 156.21 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1559,7 +1559,7 @@
       (reference "C5") (unit 1) (value "10uF") (footprint "10uF MLCC:CAPC2012X94N")
     )
     (path "/64e04f30-b75a-485a-9e25-e618219d18d5"
-      (reference "D2") (unit 1) (value "RBR3L40ADD") (footprint "Schottky DD with stock:DIOM5126X265N")
+      (reference "D2") (unit 1) (value "STPS2150A") (footprint "Schottky DD with stock:DIOM5126X265N")
     )
     (path "/ff90fce7-88c8-4858-850a-5a7e1e5af2e0"
       (reference "IC1") (unit 1) (value "SI3483DDV-T1-BE3") (footprint "PFET:SOT95P284X110-6N")
